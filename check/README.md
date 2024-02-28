@@ -106,4 +106,5 @@ node status.js
 ```
 /start
 ```
-![bot](https://github.com/Adamittem/status/assets/94529457/b0ee72b1-df86-4a9c-9496-5866ad946be5)
+![Capture](https://github.com/Adamittem/status/assets/94529457/37c09cfa-7afe-4445-b88d-458c3c6894c3)
+
