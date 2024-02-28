@@ -103,7 +103,7 @@ Usage SSD   : ${ssdUsage.trim()}`;
 node status.js
 ```
 ## Telegram
+```
 /start
 ```
-
-
+![bot](https://github.com/Adamittem/status/assets/94529457/b0ee72b1-df86-4a9c-9496-5866ad946be5)
