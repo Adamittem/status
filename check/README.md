@@ -100,6 +100,9 @@ Usage SSD   : ${ssdUsage.trim()}`;
 
 ## RUN
 ```
+node status.js
+```
+## Telegram
 /start
 ```
 
