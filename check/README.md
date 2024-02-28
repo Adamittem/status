@@ -1,7 +1,6 @@
 # Namada Check Status via Telegram
 
-https://t.me/runrunkaburbot
-
+https://t.me/mychecknambot
 
 ## Install Node.js
 ```
